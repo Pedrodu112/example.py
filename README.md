@@ -1,2 +1,1 @@
-# example.py
-print("Olá, mundo!")
+# example.py print("Olá, mundo!")
